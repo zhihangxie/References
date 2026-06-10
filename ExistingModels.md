@@ -20,16 +20,16 @@
 
 | Index | Short Title | Year | Author | Title |
 |-------|-------------|-------|--------|------|
-|  1 |     SpeechLLM-XL | 2025 |           Jia, Junteng and others  | Efficient {Streaming} {LLM} for {Speech} {Recognition}} |
-|  2 | Audio Flamingo-2 | 2025 |           Ghosh, Sreyan and others | Audio {Flamingo} 2: {An} {Audio}-{Language} {Model} with {Long}-{Audio} {Understanding} and {Expert} {Reasoning} {Abilities} |
-|  3 | Audio Flamingo-3 | 2025 |           Goel, Arushi and others  | Audio {Flamingo} 3: {Advancing} {Audio} {Intelligence} with {Fully} {Open} {Large} {Audio} {Language} {Models} |
-|  4 |     VLAT-SALMONN | 2025 |     Chaichana, Yuatyong and others | Extending {Audio} {Context} for {Long}-{Form} {Understanding} in {Large} {Audio}-{Language} {Models}} |
-|  5 | VLAT-Qwen2-Audio | 2025 |     Chaichana, Yuatyong and others | Extending {Audio} {Context} for {Long}-{Form} {Understanding} in {Large} {Audio}-{Language} {Models}} |
-|  6 |     Qwen2.5-Omni | 2025 |                 Xu, Jin and others | Qwen2.5-{Omni} {Technical} {Report} |
-|  7 |              KIT | 2025 |             Koneru, Sai and others | KIT}'s {Offline} {Speech} {Translation} and {Instruction} {Following} {Submission} for {IWSLT} 2025 |
-|  8 |   FastLongSpeech | 2025 |            Guo, Shoutao and others | FastLongSpeech}: {Enhancing} {Large} {Speech}-{Language} {Models} for {Efficient} {Long}-{Speech} {Processing} |
-|  9 |       Qwen3-Omni | 2025 |                 Xu, Jin and others | Qwen3-{Omni} {Technical} {Report} |
+|  1 |     SpeechLLM-XL | 2025 |           Jia, Junteng and others  | Efficient Streaming LLM for Speech Recognition |
+|  2 | Audio Flamingo-2 | 2025 |           Ghosh, Sreyan and others | Audio Flamingo 2: An Audio-Language Model with Long-Audio Understanding and Expert Reasoning Abilities |
+|  3 | Audio Flamingo-3 | 2025 |           Goel, Arushi and others  | Audio Flamingo 3: Advancing Audio Intelligence with Fully Open Large Audio Language Models |
+|  4 |     VLAT-SALMONN | 2025 |     Chaichana, Yuatyong and others | Extending Audio Context for Long-Form Understanding in Large Audio-Language Models |
+|  5 | VLAT-Qwen2-Audio | 2025 |     Chaichana, Yuatyong and others | Extending Audio Context for Long-Form Understanding in Large Audio-Language Models |
+|  6 |     Qwen2.5-Omni | 2025 |                 Xu, Jin and others | Qwen2.5-Omni Technical Report |
+|  7 |              KIT | 2025 |             Koneru, Sai and others | KIT's Offline Speech Translation and Instruction Following Submission for IWSLT 2025 |
+|  8 |   FastLongSpeech | 2025 |            Guo, Shoutao and others | FastLongSpeech: Enhancing Large Speech-Language Models for Efficient Long-Speech Processing |
+|  9 |       Qwen3-Omni | 2025 |                 Xu, Jin and others | Qwen3-Omni Technical Report |
 | 10 |          Voxtral | 2025 |          Liu, Alexander and others | Voxtral |
-| 11 |         MGM-Omni | 2025 |          Wang, Chengyao and others | MGM}-{Omni}: {Scaling} {Omni} {LLMs} to {Personalized} {Long}-{Horizon} {Speech} |
-| 12 |  Phi4-Multimodal | 2025 | Abouelenin, Abdelrahman and others | Phi-4-{Mini} {Technical} {Report}: {Compact} yet {Powerful} {Multimodal} {Language} {Models} via {Mixture}-of-{LoRAs} |
-| 13 |          FastSLM | 2026 |            Lee, Junseok and others | FastSLM}: {Hierarchical} {Frame} {Q}-{Former} for {Effective} {Speech} {Modality} {Adaptation} |
+| 11 |         MGM-Omni | 2025 |          Wang, Chengyao and others | MGM-Omni: Scaling Omni LLMs to Personalized Long-Horizon Speech |
+| 12 |  Phi4-Multimodal | 2025 | Abouelenin, Abdelrahman and others | Phi-4-Mini Technical Report: Compact yet Powerful Multimodal Language Models via Mixture-of-LoRAs |
+| 13 |          FastSLM | 2026 |            Lee, Junseok and others | FastSLM: Hierarchical Frame Q-Former for Effective Speech Modality Adaptation |
